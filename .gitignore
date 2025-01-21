@@ -1,0 +1,7 @@
+__pycache__/
+0115_T0_dataset_coco/
+wandb/
+detr-resnet-50-T0_LSR_seg-finetuned/
+
+token.txt
+DETR_ft.ipynb
